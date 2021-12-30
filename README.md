@@ -1,5 +1,5 @@
 # Clone Twitter
-Esta projeto tem como finalidade a clonagem da interface do Twitter.
+Este projeto tem como finalidade a clonagem da interface do Twitter.
 
 
 > Status: Finalizado ⚠️
